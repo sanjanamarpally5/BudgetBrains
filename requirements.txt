@@ -1,0 +1,12 @@
+streamlit>=1.24.0
+transformers>=4.30.0
+torch>=2.0.0
+pandas
+numpy
+python-dotenv
+pydantic
+sentencepiece
+scikit-learn
+plotly
+psutil
+watchdog
